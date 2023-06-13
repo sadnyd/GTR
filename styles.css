@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    color: #be9ed3;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+    background-color: #1c0f29;
+}
+
+#hero {
+    background-image: url("images/gtr-glitch.webp");
+    background-size:50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10px 0 40px 0;
+    height:350px;
+}
+
+#logo-1, #logo-2{
+    width: 100px;
+}
+
+#title {
+    text-shadow: 1px 1px 4px black;
+    font-size: small;
+}
+
+
+#qb{
+    text-shadow: 1px 1px 2px black;
+    font-size: small;
+}
+.btn {
+    padding: 6px 12px;
+    background: white;
+    border: 400px 0px 10px 0px;
+    font-family: 'Orbitron', sans-serif;
+    color: #82a5ca;
+    font-weight: 800;
+}
+
+.underline {
+    border-bottom: 4px solid #be90c1;
+}
+   
